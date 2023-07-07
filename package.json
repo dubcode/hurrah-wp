@@ -28,7 +28,7 @@
     "babel-eslint": "^10.0.1",
     "eslint": "^6.1.0",
     "eslint-plugin-nuxt": ">=0.4.2",
-    "stylelint": "^10.1.0"
+    "stylelint": "^15.10.1"
   },
   "main": ".eslintrc.js",
   "repository": {
